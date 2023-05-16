@@ -5,16 +5,18 @@
 4) [[Markdown quick refs#<u> Internal links (URIs)</u>|Internal Links]]
 5) [[Markdown quick refs#<u> External links (URLs) </u>|External Links]]
 6) [[Markdown quick refs#<u> Embedding content </u>|Embedded Content]]
+
+## [[Version Control]]
+1) [[Version Control#Vocab|Vocab]]
+2) [[Version Control#Branches in a [nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) inside of a nutshell:|Branching]]
+3) Merging
+
 ## [[Math notation refs]]
 1) [[Math notation refs#General notation|General Notation]]
 2) [[Math notation refs#^common-notation|Common Notation]]
 3) [[Math notation refs#^common-characters|Common Characters]]
 
-## <u> Other links </u>
+## <u>Other links</u>
 [Obsidian documentation](https://help.obsidian.md/How+to/Format+your+notes)
 [LaTeX math documentation](https://www.overleaf.com/learn/latex/Mathematical_expressions)
 [Mermaid documentation](https://mermaid.js.org/intro/)
-
-Made by BeesPlease
-`Bees, Please!#7777`
-`Bees.please.content@gmail.com`

@@ -161,15 +161,18 @@ Accepted file types for embedding:
 4.  Video files: `mp4`, `webm`, `ogv`, `mov`, `mkv`
 5.  PDF files: `pdf`
 
-Embedded PDF (I don't have a pdf on hand to embed, but this will bring one in if it exists):
-![[document.pdf]]
+Embedded PDF:
 
-Embedding a webpage/ youtube:
+![[Example.pdf]]
+
+## Embedding a webpage/ youtube:
 
 Embedding webpages requires iframes from HTML, but you can basically use the following as a template.
 
 Youtube makes it much easier as they have an embed code generator on all of their videos, clicking the share button, then embed option gives you the HTML to paste automagically and it works every time! (some videos are not allowed to play embedded, and will say `watch on youtube` or something like that)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QH2-TGUlwu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For other webpages, it's the same idea:
-<iframe width="560" height="315" src="https://en.wikipedia.org/wiki/HTML"></iframe>
+
+<iframe width="560" height="315" src="https://en.wikipedia.org/wiki/Java_(programming_language)"></iframe>
