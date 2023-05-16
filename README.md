@@ -29,6 +29,7 @@ For those who do not know how to pull a repo in github:
 2) Name the file something unique, open it, and copy the file path from the explorer adress bar
 4) If you are on windows, press Win + R (If you are on Mac goodluck, if you are on Linux/Debian you do not need my help.) to bring up the run window
 
+(These images will not appear on github)
 ![[Pasted image 20230515144749.png]]
 
 5) press enter to open up command prompt.
