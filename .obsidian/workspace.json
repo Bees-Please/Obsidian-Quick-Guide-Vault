@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "df63e98be45c91bf",
+    "id": "60b4a3e162b73145",
     "type": "split",
     "children": [
       {
-        "id": "2a40abd64687f398",
+        "id": "2ad9ad3f9fe33249",
         "type": "tabs",
         "children": [
           {
-            "id": "fdf7ccfed91f310c",
+            "id": "851c93a4e0cecbdb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,25 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3c33e78b45d8c6d8",
+    "id": "42fae0f223a1a982",
     "type": "split",
     "children": [
       {
-        "id": "6f2c5e77cb1617c5",
+        "id": "6a4923bfe52b681f",
         "type": "tabs",
         "children": [
           {
-            "id": "d84f2f0b943b75da",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "eba78c7a90899225",
+            "id": "793ed88a82941521",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,29 +48,40 @@
             }
           },
           {
-            "id": "9715a81c766268ec",
+            "id": "685db3eb3d2964d8",
             "type": "leaf",
             "state": {
-              "type": "starred",
+              "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "2c31dae86aa52a74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "4f9e9cf9ad364901",
+    "id": "268517d1371935ca",
     "type": "split",
     "children": [
       {
-        "id": "0b26267ed93560dc",
+        "id": "26950cb10c97acfb",
         "type": "tabs",
         "children": [
           {
-            "id": "284e0142ab3c6786",
+            "id": "a0255179c4fa4455",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +98,7 @@
             }
           },
           {
-            "id": "de33ea38a42b3d80",
+            "id": "10f5f65de6fe6a88",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +110,7 @@
             }
           },
           {
-            "id": "57113fe9d107c781",
+            "id": "59d89fdc7a893091",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +121,7 @@
             }
           },
           {
-            "id": "342985e530a9d515",
+            "id": "769d33cab4788c95",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,13 +147,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d84f2f0b943b75da",
+  "active": "851c93a4e0cecbdb",
   "lastOpenFiles": [
-    "Storage/Markdown quick refs.md",
-    "Table Of Contents.md",
-    "Storage/Math notation refs.md",
-    "Storage/Borzoi Snoz.png",
+    "Storage/Version Control.md",
+    "Storage/Images/Pasted image 20230515162228.png",
+    "Storage/Images/Pasted image 20230515144749.png",
+    "Storage/Images/Greek Symbols TeX.png",
+    "Storage/Images/Borzoi Snoz.png",
+    "Storage/Images",
+    "Storage/Example.pdf",
+    "Storage/Diagrams/Branches_3.svg",
+    "Storage/Diagrams/Branches_2.svg",
+    "Storage/Diagrams/Branches_1.svg",
+    "Storage/Diagrams",
+    "README.md",
     "Storage/Greek Symbols TeX.png",
-    "Pasted image 20230111234311.png.md"
+    "Storage/Borzoi Snoz.png",
+    "Table Of Contents.md",
+    "Storage/Markdown quick refs.md",
+    "Storage/Math notation refs.md",
+    "Storage/Untitled.md",
+    "Initial commit test.md",
+    "Untitled Diagram.svg.md",
+    "Storage/Untitled Diagram.svg.md",
+    "Storage"
   ]
 }
