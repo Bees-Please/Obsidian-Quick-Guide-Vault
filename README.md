@@ -33,6 +33,7 @@ For those who do not know how to pull a repo in github:
 
 5) press enter to open up command prompt.
 6) type `cd <directory you coppied>`, in my case the command would look like this:
+
 ![[Pasted image 20230515162228.png]]
 8) Press enter, this will change your working directory into the file you created.
 9) Type `git init` to initialize a blank repo
